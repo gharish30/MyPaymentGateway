@@ -20,6 +20,7 @@ import com.paymentapp.main.service.PaymentService;
 
 import jakarta.validation.Valid;
 
+// Controller
 @RestController
 @RequestMapping("/payments")
 public class PaymentController {
